@@ -65,6 +65,8 @@ The package.json/package-lock.js contributes the following:
 
 ## Usage
 
+Erik (TA) assisted with resolving issues with the table setups in the schema.sql file and provided guidance on the setups.
+
 Please click the following link to view a step by step tutorial of the employee database/command-line application.
 
 [Demo](https://drive.google.com/file/d/1P8OSjEKK2v2VjDDbzlWTomQSVP5Zw89a/view)
